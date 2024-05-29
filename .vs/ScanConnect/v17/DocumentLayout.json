@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|c:\\users\\andrei\\source\\repos\\scanconnect\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|solutionrelative:studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|c:\\users\\andrei\\source\\repos\\scanconnect\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|solutionrelative:studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|C:\\Users\\Andrei\\source\\repos\\ScanConnect\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|C:\\Users\\Andrei\\source\\repos\\ScanConnect\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|C:\\Users\\Andrei\\source\\repos\\ScanConnect\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|C:\\Users\\Andrei\\source\\repos\\ScanConnect\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|solutionrelative:info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|C:\\Users\\Andrei\\source\\repos\\ScanConnect\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|C:\\Users\\Andrei\\source\\repos\\ScanConnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA51E9AC-299D-4E90-8ABA-30A7070E9D57}|ScanConnect.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\studentInfo.cs",
+              "RelativeDocumentMoniker": "studentInfo.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\studentInfo.cs",
+              "RelativeToolTip": "studentInfo.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAwMoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:57:22.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "studentInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\studentInfo.cs",
+              "RelativeDocumentMoniker": "studentInfo.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\studentInfo.cs [Design]",
+              "RelativeToolTip": "studentInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:57:21.956Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\Registration.cs",
+              "RelativeDocumentMoniker": "Registration.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\Registration.cs [Design]",
+              "RelativeToolTip": "Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:47:08.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Info.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\Info.cs",
+              "RelativeDocumentMoniker": "Info.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\Info.cs [Design]",
+              "RelativeToolTip": "Info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:42:01.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:22:26.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAUwNQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:53:27.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:39:33.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\ScanConnect\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:15:05.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
